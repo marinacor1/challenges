@@ -69,7 +69,7 @@ Minerva does not have enough cash to perform this deposit.
 ````
 chase.withdrawal(person1, 250)
 
-Minerva has withdrawn 250 galleons. Balance: 250
+Minerva has withdrawn 250 galleons. Balance: 750
 ````
 * A person should not be able to withdraw more than they have in a bank. (No overdrafting.)
 
